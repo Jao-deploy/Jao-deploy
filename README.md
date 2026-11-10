@@ -1,6 +1,4 @@
 ## João Gabriel da Silva 
-
-
 <div style="display: inline-block;">
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
