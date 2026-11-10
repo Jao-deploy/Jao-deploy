@@ -2,8 +2,10 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="React" height="30" width="40" src="https://githubusercontent.com">
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="TypeScript" />
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
 </div>
