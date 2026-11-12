@@ -15,4 +15,4 @@
 
 ## 📚 Currently Learning:
 
-- Rub
+- Ruby
