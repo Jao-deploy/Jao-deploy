@@ -14,5 +14,4 @@
 
 
 ## 📚 Currently Learning:
-
-- Ruby  ![Ruby](https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
