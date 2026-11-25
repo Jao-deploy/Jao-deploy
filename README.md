@@ -7,9 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Most Used Languages
 
-![Most Used Languages](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/most-used-languages-card.svg)
 
 
 ## 📚 Currently Learning:
