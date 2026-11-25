@@ -9,7 +9,7 @@
 
 ## 📊 Most Used Languages
 
-![Most Used Languages](assets/most-used-languages-card.svg)
+![Most Used Languages](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/most-used-languages-card.svg)
 
 
 ## 📚 Currently Learning:
